@@ -1,2 +1,2 @@
 # projectRexample
-exaple
+example
